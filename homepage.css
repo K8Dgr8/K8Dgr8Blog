@@ -1,0 +1,42 @@
+
+body{
+	font-family: 'Source Sans Pro';
+}
+
+.BlogBody{
+	margin:20px auto;
+	width: 58%;
+	Border: 17px solid #bdc3c7;
+	padding: 10px;
+}
+
+.Date{
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+h2{
+	color: #2c3e50;
+	font-size: 30px;
+}
+
+.Entry{
+	padding: 15px;
+}
+
+.FirstParagraph{
+	border-left: 4px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+hr{
+	/*width: 95.5%;*/
+ 	border : 0;
+  	height: 1px; 
+  	background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.note{
+	font-size: 13px;
+}
